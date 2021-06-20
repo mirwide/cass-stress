@@ -1,1 +1,3 @@
-# cass-stress
+## Usage
+
+    go build && ./cass-stress -h
